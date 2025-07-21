@@ -1,5 +1,5 @@
 <!-- 🌸 Animated Pixel Name Header -->
-# ![Audrey Tan](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&width=600&lines=👾+Audrey+Tan+👾;Future+Tech+Wizard;Creative+Techie+%7C+Game+Enjoyer;Always+Leveling+Up!)
+# ![Audrey Tan](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&width=600&lines=👾+Audrey+Tan+👾)
 
 
 ## 🌸 **About Me**
