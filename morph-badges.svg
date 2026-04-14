@@ -1,0 +1,79 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    text {
+      font-family: monospace;
+      font-weight: bold;
+      fill: white;
+      font-size: 14px;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <!-- REACT -->
+  <g transform="translate(80,60)">
+    <path fill="#FF69B4">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z;
+        M-40,-30 Q10,-50 60,-10 Q60,20 30,40 Q-10,30 -50,10 Q-60,-10 -40,-30 Z;
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z
+        "/>
+    </path>
+    <text x="0" y="0">React</text>
+  </g>
+
+  <!-- SUPABASE -->
+  <g transform="translate(240,60)">
+    <path fill="#a855f7">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z;
+        M-30,-40 Q20,-50 60,-10 Q50,30 10,40 Q-30,20 -60,0 Q-40,-20 -30,-40 Z;
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z
+        "/>
+    </path>
+    <text x="0" y="0">Supabase</text>
+  </g>
+
+  <!-- FIGMA -->
+  <g transform="translate(400,60)">
+    <path fill="#06b6d4">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z;
+        M-60,-10 Q0,-50 40,-30 Q60,10 30,40 Q-10,30 -60,10 Q-70,-10 -60,-10 Z;
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z
+        "/>
+    </path>
+    <text x="0" y="0">Figma</text>
+  </g>
+
+ 
+  <g transform="translate(560,60)">
+    <path fill="#f59e0b">
+      <animate attributeName="d" dur="6.5s" repeatCount="indefinite"
+        values="
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z;
+        M-40,-30 Q20,-50 60,-10 Q50,30 0,40 Q-40,30 -60,10 Q-50,-20 -40,-30 Z;
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z
+        "/>
+    </path>
+    <text x="0" y="0">Javascript</text>
+  </g>
+
+  <!-- VUE -->
+  <g transform="translate(720,60)">
+    <path fill="#10b981">
+      <animate attributeName="d" dur="5.5s" repeatCount="indefinite"
+        values="
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z;
+        M-30,-40 Q30,-40 60,0 Q50,30 0,40 Q-40,30 -60,0 Q-50,-20 -30,-40 Z;
+        M-50,-20 Q0,-40 50,-20 Q70,0 50,20 Q0,40 -50,20 Q-70,0 -50,-20 Z
+        "/>
+    </path>
+    <text x="0" y="0">Vue</text>
+  </g>
+
+</svg>
