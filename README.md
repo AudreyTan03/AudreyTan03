@@ -1,13 +1,15 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=" />
 </p>
 
-<h1 align="center" style="margin-top:-140px; color:white; font-weight:600; letter-spacing:2px;">
+<p align="center" style="margin-top:-140px; font-size:32px; font-weight:700; color:white;">
   Audrey Tan
-</h1>
+</p>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=UI+Designer+%2B+Frontend+Dev;🎮+Leveling+Up+Everyday+🎮"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=UI+Designer+%2B+Frontend+Dev;%F0%9F%8E%AE+Leveling+Up+Everyday+%F0%9F%8E%AE"/>
 </p>
 
 <p align="center">
