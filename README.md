@@ -1,8 +1,6 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=👾+Audrey+Tan+👾"
-  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=%F0%9F%91%BE+Audrey+Tan+%F0%9F%91%BE" />
+</p>
 
 ## 🌸 About Me
 🖥 **Future Tech Wizard** – Computed Engineering diving into code & systems
