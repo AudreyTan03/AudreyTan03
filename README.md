@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=" />
-</p>
-
-<p align="center" style="margin-top:-170px; font-size:36px; font-weight:700; color:white;">
-  Audrey Tan
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Audrey%20Tan&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=35&animation=fadeIn"/>
 </p>
 <br>
 <p align="center">
