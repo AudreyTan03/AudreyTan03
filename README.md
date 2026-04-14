@@ -1,4 +1,8 @@
-# ![Audrey Tan](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&width=600&lines=👾+Audrey+Tan+👾)
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=👾+Audrey+Tan+👾"
+  />
+</div>
 
 ## 🌸 About Me
 🖥 **Future Tech Wizard** – Computed Engineering diving into code & systems
