@@ -1,26 +1,21 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: AudreyTan03
           outputs: |
-           dist/snake.svg?color_snake=FF69B4&color_dots=#FDE2E4,#FFB6C1,#FF8A65,#FF5722,#2D2D2D
-           dist/snake-dark.svg?color_snake=FF69B4&color_dots=#0f0f0f,#2a2a2a,#FF8A65,#FF69B4,#FF1744
-
+            dist/snake.svg?color_snake=FF69B4&color_dots=#F48FB1,#FFC2CE,#FFD9A8,#FFF5A0,#A8EDCB,#A8CCFF
+            dist/snake-dark.svg?color_snake=FF69B4&color_dots=#F48FB1,#FFC2CE,#FFD9A8,#FFF5A0,#A8EDCB,#A8CCFF
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
