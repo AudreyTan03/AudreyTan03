@@ -1,84 +1,71 @@
-# 👾 Audrey Tan
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Future+Tech+Wizard+✨;UI+Designer+%2B+Frontend+Dev;AI+%26+ML+Explorer;Always+Leveling+Up+🎮" />
-</p>
-
----
+# ![Audrey Tan](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&width=600&lines=👾+Audrey+Tan+👾)
 
 ## 🌸 About Me
+🖥 **Future Tech Wizard** – Computed Engineering diving into code & systems
 
-✨ Computer Engineering student exploring the world of tech  
-🎨 UI Designer + Creative Developer 
-🎮 Always grinding, always leveling up  
-📚 Loves building, experimenting, and improving every day  
+🎨 **Creative Techie** – Loves designing
 
----
+🎮 **Game Enjoyer**
 
-## 🌐 Portfolio
+📚 **Always Learning** – Constantly learning, experimenting, and improving
 
-🚀 **Check out my work here:**  
-👉 https://odritan.web.app/
+🌐 **Portfolio** → [odritan.web.app](https://odritan.web.app/)
 
 ---
 
-## 🕹️ Connect With Me
-
-<p align="left">
-  <a href="https://discord.gg/shobe_xbt"><img src="https://img.shields.io/badge/Discord-FFE4E1?style=for-the-badge&logo=discord&logoColor=FF69B4"/></a>
-  <a href="https://www.facebook.com/shobe03"><img src="https://img.shields.io/badge/Facebook-FFB6C1?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/audrey-tan-72a514351/"><img src="https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=purple"/></a>
-  <a href="mailto:audreyannetan13@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=FF69B4"/></a>
-</p>
+## 🕹️ Socials
+[![Discord](https://img.shields.io/badge/Discord-FFE4E1?style=for-the-badge&logo=discord&logoColor=FF69B4)](https://discord.gg/shobe_xbt)
+[![Instagram](https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shob.hi111/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/audrey-tan-72a514351/)
+[![Email](https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:audreyannetan13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E6E6FA?style=for-the-badge&logo=googlechrome&logoColor=purple)](https://odritan.web.app/)
 
 ---
 
-## 🌈 Tech Stack
+## 🤖 AI & ML
+![CNN](https://img.shields.io/badge/CNN_Frameworks-FFE4E1?style=for-the-badge&logoColor=FF69B4)
 
-### 🤖 AI & Machine Learning
-- CNN (Convolutional Neural Networks)
+## 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FFD1DC?style=for-the-badge&logo=canva&logoColor=purple)
 
-### 🎨 Frontend & Design
-- React.js  
-- Vue.js  
-- Vite  
-- JavaScript  
-- CSS  
-- Bootstrap  
-- Tailwind CSS  
-- Figma  
+## 🧩 Frameworks & Frontend
+![React](https://img.shields.io/badge/React-E6E6FA?style=for-the-badge&logo=react&logoColor=FF69B4)
+![Vue](https://img.shields.io/badge/Vue-C8F5E0?style=for-the-badge&logo=vue.js&logoColor=green)
+![Vite](https://img.shields.io/badge/Vite-FFE4E1?style=for-the-badge&logo=vite&logoColor=FF69B4)
+![Django](https://img.shields.io/badge/Django_REST-E6E6FA?style=for-the-badge&logo=django&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-C8E8FF?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E6E6FA?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
-### ⚙️ Backend & Frameworks
-- Django REST  
+## ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFDAB9?style=for-the-badge&logo=firebase&logoColor=FF69B4)
+![Supabase](https://img.shields.io/badge/Supabase-C8F5E0?style=for-the-badge&logo=supabase&logoColor=green)
+![Vercel](https://img.shields.io/badge/Vercel-FFE4E1?style=for-the-badge&logo=vercel&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-FFD1DC?style=for-the-badge&logo=heroku&logoColor=purple)
+![AWS](https://img.shields.io/badge/AWS-FFF0F5?style=for-the-badge&logo=amazon-aws&logoColor=purple)
 
-### ☁️ Cloud & DevOps
-- Firebase  
-- Supabase  
-- Vercel  
-- Heroku  
-- AWS  
-
-### 🧰 Tools & Version Control
-- Git  
-- GitHub  
-- GitLab  
-- Postman  
+## 🔧 Version Control & Tools
+![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-FFD1DC?style=for-the-badge&logo=gitlab&logoColor=orange)
+![Postman](https://img.shields.io/badge/Postman-FFDAB9?style=for-the-badge&logo=postman&logoColor=FF69B4)
 
 ---
-
 ## ✨ Shobe Tracker
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AudreyTan03&theme=soft-green&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFD1DC" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyTan03&layout=compact&theme=omni&title_color=FFB6C1&text_color=FFD1DC&bg_color=151515"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake.svg"/>
+  </picture>
 </p>
 
 ---
 
-## 💡 Current Focus
-- Improving UI/UX + frontend development 🎨  
-
----
-
-⭐ “Just a techie having fun leveling up in design & coding.”
+⭐ _"Just a techie having fun leveling up in design & coding."_
