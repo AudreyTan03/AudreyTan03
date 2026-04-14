@@ -14,7 +14,7 @@ jobs:
         with:
           github_user_name: AudreyTan03
           outputs: |
-            dist/snake.svg?color_snake=FF69B4&color_dots=#F5F5F5,#FFD6E0,#FFB6C1,#FF8FA3,#FF4D6D
+            dist/snake.svg?color_snake=FF69B4&color_dots=#FCEEF3,#F8D7E3,#FFB6C1,#FF8FA3,#FF4D6D
             dist/snake-dark.svg?color_snake=FF69B4&color_dots=#0f0f0f,#2a2a2a,#FFB6C1,#FF69B4,#FF1493
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
