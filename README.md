@@ -1,6 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=%F0%9F%91%BE+Audrey+Tan+%F0%9F%91%BE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=" />
 </p>
+
+<h1 align="center" style="margin-top:-140px; color:white; font-weight:600; letter-spacing:2px;">
+  Audrey Tan
+</h1>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=UI+Designer+%2B+Frontend+Dev;🎮+Leveling+Up+Everyday+🎮"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/main/morph-badges.svg" width="600"/>
+</p>
+
 
 ## 🌸 About Me
 🖥 **Future Tech Wizard** – Computed Engineering diving into code & systems
@@ -60,13 +73,16 @@
   <img src="https://streak-stats.demolab.com?user=AudreyTan03&theme=soft-green&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFD1DC" />
 </p>
 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/AudreyTan03/AudreyTan03/output/snake.svg"/>
   </picture>
+  
 </p>
+
 
 ---
 
