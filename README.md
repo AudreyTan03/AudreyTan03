@@ -61,12 +61,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=black)
 ![GitLab](https://img.shields.io/badge/GitLab-FFD1DC?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Postman](https://img.shields.io/badge/Postman-FFDAB9?style=for-the-badge&logo=postman&logoColor=FF69B4)
-
----
 ## ✨ Shobe Tracker
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AudreyTan03&theme=soft-green&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFD1DC" />
+  <img src="https://streak-stats.demolab.com?user=AudreyTan03&theme=radical&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFD1DC&sideNums=FF69B4&currStreakNum=FFFFFF&border_radius=30&hide_border=true&background=0D1117&v=5" />
 </p>
 
 
@@ -79,7 +78,8 @@
   
 </p>
 
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=footer"/>
+</p>
 
 ⭐ _"Just a techie having fun leveling up in design & coding."_
