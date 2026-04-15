@@ -18,7 +18,7 @@
 
 🎮 **Game Enjoyer**
 
-📚 **Always Learning** – Constantly learning, experimenting, and improving everyday
+📚 **Always Learning** – Constantly learning, experimenting, and improving 
 
 🌐 **Portfolio** → [odritan.web.app](https://odritan.web.app/)
 
