@@ -14,7 +14,7 @@
 ## 🌸 About Me
 🖥 **Future Tech Wizard** – Computer Engineering diving into code & systems
 
-🎨 **Creative Techie** – Loves designing
+🎨 **Creative Techie** – Loves designing and building
 
 🎮 **Game Enjoyer**
 
