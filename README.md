@@ -12,7 +12,7 @@
 
 
 ## 🌸 About Me
-🖥 **Future Tech Wizard** – Computer Engineering diving into code & systems
+🖥 **Future Tech Wizard** – Computer Engineer diving into code & systems
 
 🎨 **Creative Techie** – Loves designing and building
 
