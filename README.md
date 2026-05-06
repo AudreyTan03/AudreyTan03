@@ -82,4 +82,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=footer"/>
 </p>
 
-⭐ _"Just a techie having fun leveling up in design & coding."_
+⭐ _"Just a techie having fun leveling up in design & coding."_ a
